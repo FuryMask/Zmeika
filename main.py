@@ -19,7 +19,7 @@ def main():
     current_game = None
     game_mode = None
     paused = False
-    show_win = True
+    show_win = False
     show_game_over = False
     
     running = True
